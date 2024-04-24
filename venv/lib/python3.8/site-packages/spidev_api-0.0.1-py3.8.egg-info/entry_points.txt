@@ -1,0 +1,3 @@
+[console_scripts]
+spidev_api = spidev_api.cli:main
+
